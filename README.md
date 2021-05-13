@@ -1,9 +1,3 @@
-### Hi there 👋
-
-Lazy to typing to much, so
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8loser)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **8loser/8loser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=8loser&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8loser" />
+</a>
