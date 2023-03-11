@@ -22,3 +22,4 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8loser&theme=radical&hide=html" />
 </a>
 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=8loser&theme=rogue)
